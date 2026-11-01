@@ -21,7 +21,7 @@ Preprocessing uses a reproducible stratified split with 1,279 training rows and 
 ## c. GitHub Repository Link & Live Streamlit App Link
 
 - **GitHub repository:** [GaneshT1133/bits-ml-assignment-2](https://github.com/GaneshT1133/bits-ml-assignment-2)
-- **Live Streamlit app:** Not deployed yet. The app can be launched locally with `streamlit run app.py`; Streamlit Community Cloud deployment is still pending.
+- **Live Streamlit app:** [Red Wine Quality Classifier Lab](https://bits-ml-assignment-2-32br9urkmmonneej96cxbn.streamlit.app/)
 
 ## d. Models Used & Comparison Table
 
